@@ -1,0 +1,24 @@
+body {
+  background-color: lightgray;
+}
+.form-content {
+  background-color: lightpink;
+  padding: 20px;
+  border: 1px solid gray;
+  border-radius: 3px;
+}
+.formcontainer {
+  margin-left: 350px;
+  margin-right: 350px;
+}
+.btn-submit {
+  padding: 5px;
+  color: black;
+  background-color: rgb(173, 173, 203);
+  border-radius: 5px;
+  border: 1px solid white;
+  cursor: pointer;
+}
+.btn-submit:hover {
+  background-color: white;
+}
